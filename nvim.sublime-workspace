@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Marked"
+			],
+			[
+				"autofo",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"format",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"or d ",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"create p r",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"z",
+				"Z: Jump to directory"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"sear",
+				"Search In Project"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"w",
+				"Wget"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"mar",
+				"Marked"
+			],
+			[
+				"preview",
+				"Preferences: MarkdownLivePreview Settings"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Bear App: Create Note from selection"
+			],
+			[
+				"white",
+				"Remove Selected Whitespace"
+			],
+			[
+				"bear",
+				"Bear App: Create Note from selection"
+			],
+			[
+				"wg",
+				"Wget"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"boun",
+				"List bound keys"
+			],
+			[
+				"wget",
+				"Wget"
+			],
+			[
+				"ori d p r",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"out",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"git",
+				"Git: Graph All"
+			],
+			[
+				"or d",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"outline",
+				"Outline: Toggle Sort"
+			],
+			[
+				"brow",
+				"Browse Mode: FileBrowser Left, Outline Right"
+			],
+			[
+				"or de p r",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"ori c p r",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"git all",
+				"Git: Add All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te09.zip.1",
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te11.zip.1",
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te12.zip.1",
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te13.zip.1",
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te14.zip.1",
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te16.zip.1",
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te17.zip.1",
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te19.zip.1",
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te27.zip.1",
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te31.zip.1",
+		"/Users/andrewrussell/Downloads/Newshosting/kcb9te40/kcb9te32.zip.1",
+		"/Users/andrewrussell/Downloads/vi-vim-tutorial-svg/vi-vim-tutorial-6.svg",
+		"/Users/andrewrussell/codeAug2018/python/nump.py",
+		"/Users/andrewrussell/codeAug2018/python/testing.py",
+		"/Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+		"/Users/andrewrussell/Documents/the_archive/arv137-0-The Meaning of Life.md",
+		"/Users/andrewrussell/Documents/the_archive/arv103-Rawls Lectures on Political Philosophy.md",
+		"/Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages/Z/Z.sublime-settings",
+		"/Users/andrewrussell/Documents/the_archive/qq1759-Suicide.md",
+		"/Users/andrewrussell/Documents/the_archive/arv105-Introduction to History of Political Philosophy.md",
+		"/Users/andrewrussell/Documents/the_archive/qq1763-Totalitarianism.md",
+		"/Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-settings",
+		"/Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages/User/sublime_zk.sublime-settings",
+		"/Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages/sublime_zk/Default (OSX).sublime-keymap",
+		"/Users/andrewrussell/Library/Application Support/DEVONthink Pro 2/Inbox.dtBase2/Files.noindex/md/4/Standard Note Taking.md",
+		"/Users/andrewrussell/Documents/the_archive/arv14-4-TheOriginal Position Simulating Reasonableness.md",
+		"/Users/andrewrussell/Documents/the_archive/arv64-0-Philosophyof Money and Finance.md",
+		"/Users/andrewrussell/Documents/the_archive/arv1-0-Social Norms.md",
+		"/Users/andrewrussell/Documents/the_archive/arv69-Philosophy of Money and Finance.md",
+		"/Users/andrewrussell/testingcli/md_files/arv80-Totalitarianism.md",
+		"/Users/andrewrussell/Documents/the_archive/arv63-The Press and The Enemy of the People.md",
+		"/Users/andrewrussell/Documents/the_archive/arv13-Technoimmortalizaton.md",
+		"/Users/andrewrussell/Documents/the_archive/Need tidying up/Karl Poper.md",
+		"/Users/andrewrussell/Documents/the_archive/arv50-Terrorism.md",
+		"/Users/andrewrussell/Documents/the_archive/arv45-Against Conscientious Objection In Health Care.md",
+		"/Users/andrewrussell/.vimrc-bak-oct21",
+		"/Users/andrewrussell/Documents/the_archive/arv44-Pluralist Theories of Truth.md",
+		"/Users/andrewrussell/Documents/the_archive/qq259-On Liberty.md",
+		"/Users/andrewrussell/Documents/the_archive/qq263-Omniscience.md",
+		"/Users/andrewrussell/Documents/the_archive/qq269-Contractarianism.md",
+		"/Users/andrewrussell/Documents/the_archive/qq271-Reductionism in Biology.md",
+		"/Users/andrewrussell/Documents/the_archive/arv31-Mental Causation.md",
+		"/Users/andrewrussell/Documents/the_archive/arv29-Neuroscience of Consciousnes.md",
+		"/Users/andrewrussell/Desktop-JUNK/main.go",
+		"/Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/andrewrussell/Documents/the_archive/qq358-Scientific Realism.md",
+		"/Users/andrewrussell/Documents/the_archive/arv17-Universal Darwinsism TOC.md",
+		"/Users/andrewrussell/Documents/the_archive/qq799-Japanese Pure Land Philosophy toc.md",
+		"/Users/andrewrussell/Documents/the_archive/qq1906-Alfred Jules Ayer.md",
+		"/Users/andrewrussell/Documents/the_archive/qq038-Existentialism is a Humanism, Jean-Paul Sarte.md",
+		"/Users/andrewrussell/Documents/the_archive/Karl Poper.md",
+		"/Users/andrewrussell/Documents/the_archive/arv1-Social Norms.md",
+		"/Users/andrewrussell/Downloads/generate-3.vim",
+		"/Users/andrewrussell/.CMVolumes/do sept2018/.spacemacs",
+		"/Users/andrewrussell/Documents/the_archive/arv8-Emotion.md",
+		"/Users/andrewrussell/Documents/the_archive/arv7-Turing Machines.md",
+		"/Users/andrewrussell/Documents/the_archive/Social Norms.md",
+		"/Users/andrewrussell/NVALT1/qq1905-philosophy of sexuality.md",
+		"/Users/andrewrussell/NVALT1/Utopian Social Engineering.md",
+		"/Users/andrewrussell/NVALT1/qq257-Hope[hope philosophy].md",
+		"/Users/andrewrussell/NVALT1/Corruption.md",
+		"/Users/andrewrussell/NVALT1/philosophy of sexuality.md",
+		"/Users/andrewrussell/NVALT1/Alfred Jules Ayer.md",
+		"/Users/andrewrussell/NVALT1/Moral Vetarianism.md",
+		"/Users/andrewrussell/NVALT1/Philosophy of artificial intelligence.md",
+		"/Users/andrewrussell/NVALT1/Chinese Ethics.md",
+		"/Users/andrewrussell/NVALT1/Ethics of Artificial Intelligence MW.md",
+		"/Users/andrewrussell/NVALT1/qq1178-Scrivener 3 Review - The Writer's Cookbook.rtfd/TXT.rtf",
+		"/Users/andrewrussell/NVALT1/qq026-Political Representation.md",
+		"/Users/andrewrussell/NVALT1/The Incommensurability of Scientific Theories.md",
+		"/Users/andrewrussell/NVALT1/Gatsby.md",
+		"/Users/andrewrussell/NVALT1/Estimating When Life Could Have Arisen on Earth.md",
+		"/Users/andrewrussell/NVALT1/Planets Covered by Deep Oceans Can Still Have Life on Them.md",
+		"/Users/andrewrussell/NVALT1/To Find Alien Life, NASA Needs Bigger, Bolder Exoplanet-Hunting Telescopes.md",
+		"/Users/andrewrussell/NVALT1/What Does Quantum Theory Actually Tell Us about Reality.md",
+		"/Users/andrewrussell/NVALT1/Time Supplement.md",
+		"/Users/andrewrussell/NVALT1/Are Humans Alone in the Milkyway.md",
+		"/Users/andrewrussell/NVALT1/qq002-Zettel Note Header Automation in NvALT • Zettelkasten Method.md",
+		"/Users/andrewrussell/NVALT1/qq1871-Moral Reasoning.md",
+		"/Users/andrewrussell/NVALT1/Time.md",
+		"/Users/andrewrussell/NVALT1/Capital Punishment.md",
+		"/Users/andrewrussell/NVALT1/codeintel.md",
+		"/Users/andrewrussell/NVALT1/qq1763-Totalitarianism.md",
+		"/Users/andrewrussell/NVALT1/alienation.md",
+		"/Users/andrewrussell/NVALT1/qq026-P-Political Representation.md",
+		"/Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages/Search in Project/SearchInProject.sublime-settings",
+		"/Users/andrewrussell/NVALT1/qq041-P-Citizenship, Political Liberalism and the National Curriculum.md",
+		"/Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/andrewrussell/Documents/the_archive",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vim":
+							{
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/andrewrussell/Desktop-JUNK":
+	{
+		"height": 181.0
+	},
+	"output.9o:///Users/andrewrussell/Library/Application Support/Sublime Text 3/Packages":
+	{
+		"height": 181.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "nvim.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vim":
+		{
+			"alternate_view": null
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 388.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
